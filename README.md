@@ -1,6 +1,8 @@
-# Banana Dungeon 2
+# Banana Dungeon
 
-**Banana Dungeon 2** is a brand new experience to 2D Roguelike games. Dive into the procedurally generated dungeons and battle your way through multiple levels filled with enemies, weapons, and challenges.
+**Banana Dungeon** is a brand new experience to 2D Roguelike games. Dive into the procedurally generated dungeons and battle your way through multiple levels filled with enemies, weapons, and challenges.
+
+![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyMy5wbmc=/original/klaPKO.png)
 
 ## Features
 
@@ -13,6 +15,9 @@
 - **AStar Enemy Pathfinding**: Enemies use intelligent pathfinding to hunt you down.
 - **Flippable Tables for Cover**: Use the environment to your advantage by flipping tables for cover.
 - **And MORE...**: Discover additional features and surprises as you play!
+
+![Screenshot 2](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyNC5wbmc=/original/FXhseZ.png)
+![Screenshot 3](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyNi5wbmc=/original/p495Ak.png)
 
 ## Technologies Used
 
@@ -29,3 +34,5 @@
 - **Interacting**: Press 'E' to interact with chests.
 - **Weapon Selection**: Use the number keys (1,2,3,4,5,6,7,8,9) to select different weapons.
 - **Objective**: Clear rooms of enemies, find the boss room, and KILL 'EM ALL!!!
+
+![Screenshot 4](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyOC5wbmc=/original/ZOthDA.png)
