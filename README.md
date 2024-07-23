@@ -1,4 +1,4 @@
-# Banana Dungeon 2
+# 🍌 Banana Dungeon 2
 
 **Banana Dungeon 2** is a brand new experience to 2D Roguelike games. Dive into the procedurally generated dungeons and battle your way through multiple levels filled with enemies, weapons, and challenges.
 
@@ -17,9 +17,10 @@
 - **And MORE...**: Discover additional features and surprises as you play!
 
 ![Screenshot 2](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyNC5wbmc=/original/FXhseZ.png)
+
 ![Screenshot 3](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyNi5wbmc=/original/p495Ak.png)
 
-## Technologies Used
+## 🧰 Technologies Used
 
 - **Unity 2D**: The game is developed using Unity 2D, providing a robust framework for creating immersive 2D experiences.
 - **Aseprite**: All sprites and animations are created using Aseprite, a powerful pixel art tool.
