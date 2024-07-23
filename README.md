@@ -1,6 +1,6 @@
-# Banana Dungeon
+# Banana Dungeon 2
 
-**Banana Dungeon** is a brand new experience to 2D Roguelike games. Dive into the procedurally generated dungeons and battle your way through multiple levels filled with enemies, weapons, and challenges.
+**Banana Dungeon 2** is a brand new experience to 2D Roguelike games. Dive into the procedurally generated dungeons and battle your way through multiple levels filled with enemies, weapons, and challenges.
 
 ![Screenshot 1](https://img.itch.zone/aW1hZ2UvMjE0MDA5My8xMjYyODMyMy5wbmc=/original/klaPKO.png)
 
